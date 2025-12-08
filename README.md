@@ -2,7 +2,7 @@
 ## Abstract
 SeeFood is a project that took inspiration from the TV Show "Silicon Valley" where a "Shazam for Food" was pitched and built. We built a food classifier with 101 classes trained on the "Food-101" dataset from ETH Zürich. After some experimentation with different models and a subset of our data, we decided to use transfer learning on a ResNet-50 model trained on everyday images and implemented our own network layers to accomplish our food classification objective.
 
-Read more about our project here: 
+Read more about our project here: https://docs.google.com/document/d/17uGX_JmNcZ4olWBsDv7J-I7P4jyI77A9lY7tABJvJRs/edit?usp=sharing
 ## Experimentation Results
 ### ResNet-50 results
 ```python

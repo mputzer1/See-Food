@@ -4,7 +4,7 @@ SeeFood is a project that took inspiration from the TV Show "Silicon Valley" whe
 
 Read more about our project here: https://docs.google.com/document/d/17uGX_JmNcZ4olWBsDv7J-I7P4jyI77A9lY7tABJvJRs/edit?usp=sharing
 ## Experimentation Results
-Our figures were created using the following blocks of code. The figures themselves are viewable in the folder blog_figures.
+Our figures were created using the following blocks of code. We used the history variable generated from the model fitting to obtain the data below. The figures themselves are viewable in the folder blog_figures.
 ### ResNet-50 results
 ```python
 #ResNet50 accuracy graph
